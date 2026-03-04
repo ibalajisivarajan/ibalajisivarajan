@@ -101,8 +101,6 @@ Examples include:
 
 # 📌 Featured Repositories
 
-*(Pinned repositories highlight technical program leadership artifacts)*
-
 ⭐ **tpm-playbook**  
 Frameworks for running complex engineering programs — risk logs, dependency mapping, release governance.
 
