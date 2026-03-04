@@ -1,80 +1,119 @@
 # Hi, I'm Balaji Sivarajan 👋
 
-> **Senior Technical Program Manager** | Cloud & AI/ML Transformation | SAFe Agile | Fortune 500 & Gov't
+> **Senior Technical Program Manager** | Cloud Platforms | Distributed Systems | Data & AI Programs
 
-I bridge the gap between **technology and business outcomes**turning complex, cross-functional programs into measurable enterprise impact. With 10+ years leading cloud modernization, AI/ML enablement, and digital transformation across **JetBlue, CHUBB, Wisconsin DOR, and Mattel**, I specialize in delivering at scale.
+I lead large-scale technical programs that sit at the intersection of **engineering execution and business impact**.
+
+Over the past decade, I’ve delivered modernization initiatives across **aviation, fintech, and government platforms**, partnering closely with engineering, architecture, and executive leadership teams.
+
+Programs I've led support:
+
+• 1000+ daily flights and real-time airline operations  
+• enterprise cloud modernization across Azure and AWS  
+• AI/ML and analytics platforms for decision intelligence  
+• large-scale digital platforms serving millions of users
+
+This GitHub documents the **technical thinking behind complex programs**, including:
+
+- system architecture breakdowns
+- distributed system patterns
+- cloud modernization frameworks
+- program execution playbooks for engineering teams
 
 ---
 
-## 🎯 What I Work On
+# 🎯 Areas I Work In
 
-- 🚀 **Cloud Modernization** — Azure & AWS-based platform migrations delivering 30–40% efficiency gains
-- 🤖 **AI/ML Program Leadership** — Predictive models, LLMs, GenAI adoption, and decision intelligence
-- ✈️ **Mission-Critical Operations** — Flight planning systems, fuel optimization, crew compliance at 44M+ passengers/year scale
-- 📊 **Data & Analytics Platforms** — Snowflake, Tableau, Power BI driving BI for executive stakeholders
-- ⚙️ **CI/CD & DevOps Enablement** — Docker, Kubernetes, automated testing pipelines across 20+ services
-- 🏛️ **Government Digital Transformation** — Tax platform modernization, compliance automation, audit intelligence
+- 🚀 **Cloud Platform Modernization**  
+  Enterprise migrations across Azure and AWS improving scalability, resilience, and operational efficiency
+
+- 🤖 **AI / ML Program Delivery**  
+  Predictive modeling, LLM enablement, and enterprise GenAI adoption initiatives
+
+- ✈️ **Mission-Critical Systems**  
+  Airline flight planning, crew compliance, and real-time operational decision platforms
+
+- 📊 **Enterprise Data Platforms**  
+  Snowflake data architecture, analytics pipelines, and BI ecosystems
+
+- ⚙️ **Engineering Execution & DevOps**  
+  CI/CD pipelines, microservices delivery across Kubernetes-based platforms
+
+- 🏛️ **Public Sector Digital Transformation**  
+  Tax modernization platforms and compliance automation for state government
 
 ---
 
-## 📈 Impact By The Numbers
+# 📊 Program Impact
 
 | Program | Outcome |
 |---|---|
-| JetBlue Cloud Migration | ~$100M+ in annual cost savings |
-| Flight Planning System (Azure + ML) | $50M annual scheduling savings, 14% reduction in flight planning time |
-| Fuel Optimization (300+ aircraft) | 26% fuel reduction, $7M+ savings |
-| Audit Intelligence Platform (Snowflake) | $18M added revenue, 60% faster audit cycles |
-| eCommerce Platform (CUNA / TruStage) | $12M new premium revenue, 26% conversion lift |
-| CI/CD Pipeline Modernization | 60% reduction in deployment cycles |
+| JetBlue Cloud Platform Modernization | $100M+ annual infrastructure efficiency |
+| Flight Planning Optimization Platform | $50M annual savings, 14% faster planning |
+| Fuel Optimization (300+ aircraft) | 26% fuel savings, $7M annual reduction |
+| Audit Intelligence Platform | $18M revenue impact, 60% faster audits |
+| Digital Insurance Platform | $12M new premium revenue |
+| DevOps Platform Modernization | 60% faster deployment cycles |
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🛠️ Technology & Platforms
 
-**Cloud:** `AWS` `Azure` `Snowflake`
+**Cloud Platforms**
 
-**AI/ML:** `GenAI` `LLMs` `Machine Learning` `NLP` `Predictive Analytics`
+`AWS` `Azure` `Snowflake`
 
-**DevOps:** `Docker` `Kubernetes` `Jenkins` `CI/CD Pipelines` `Kafka`
+**AI & Data**
 
-**Program Management:** `Jira` `Confluence` `Asana` `Miro` `SAFe` `Scrum` `Kanban`
+`Machine Learning` `GenAI` `LLMs` `Predictive Analytics` `NLP`
 
-**Data & BI:** `SQL` `Tableau` `Power BI` `Grafana` `Prometheus` `Splunk`
+**DevOps & Infrastructure**
 
-**APIs & Testing:** `RESTful` `GraphQL` `Postman` `Selenium` `Karate`
+`Docker` `Kubernetes` `Kafka` `CI/CD` `Jenkins`
 
-**Enterprise SaaS:** `Salesforce` `ServiceNow` `Guidewire` `Sitecore`
+**Observability & Monitoring**
 
----
+`Grafana` `Prometheus` `Splunk`
 
-## 💼 Career Highlights
+**Program Delivery**
 
-**🛫 JetBlue** *(Sr. TPM, 2021–Present)*
-Led 50+ enterprise initiatives across cloud-native flight ops, crew compliance modernization, and 450M+ passenger communications. Presented OKR dashboards to VP-level stakeholders on $1B+ programs.
+`SAFe` `Scrum` `Kanban` `Jira` `Confluence`
 
-**🏛️ Wisconsin Dept. of Revenue** *(TPM, 2019–2021)*
-Built a centralized Audit Intelligence Platform (Snowflake + Tableau), surfaced $7B+ in exposure insights, achieved 90% stakeholder satisfaction across 50+ state agency stakeholders.
+**Enterprise Platforms**
 
-**🎀 Mattel / AmericanGirl** *(TPM at Cognizant, 2018–2019)*
-Delivered interactive eCommerce features driving 22% engagement lift and $8M in revenue for 15M+ annual visitors.
-
-**🏦 CUNA / TruStage** *(TPM at Cognizant, 2014–2017)*
-Scaled digital insurance platform serving 30M+ credit union members, $12M in new premium revenue.
-
-**🌍 CHUBB Insurance** *(Sr. Software Engineer, 2010–2014)*
-Led ACE–CHUBB rebranding migration across 3 continents, 40+ team members, 20+ business units.
+`Salesforce` `ServiceNow` `Guidewire` `Sitecore`
 
 ---
 
-## 📌 Featured Repositories
+# 🧠 What You'll Find In This GitHub
 
-> *Pinning repos that showcase my TPM thinking — program artifacts, frameworks, and tooling I use or recommend.*
+This repository collection focuses on the **technical side of program management**.
 
-<!-- Pin your best repos here once you create them! Suggestions below: -->
-<!-- ⭐ tpm-playbook — SAFe program management templates, PI planning guides, risk registers -->
-<!-- ⭐ cloud-migration-framework — Azure/AWS migration checklist and governance artifacts -->
-<!-- ⭐ ai-ml-program-starter — AI adoption roadmap templates for enterprise PMs -->
+Examples include:
+
+- System design breakdowns for large-scale platforms
+- Architecture notes for distributed systems
+- TPM playbooks for managing engineering programs
+- Cloud migration frameworks
+- Program governance templates
+
+---
+
+# 📌 Featured Repositories
+
+*(Pinned repositories highlight technical program leadership artifacts)*
+
+⭐ **tpm-playbook**  
+Frameworks for running complex engineering programs — risk logs, dependency mapping, release governance.
+
+⭐ **system-design-notes**  
+Architecture explorations for distributed systems and real-time platforms.
+
+⭐ **cloud-modernization-framework**  
+Enterprise migration playbooks for Azure and AWS.
+
+⭐ **data-platform-delivery**  
+Patterns for delivering analytics and Snowflake-based platforms.
 
 ---
 
@@ -85,4 +124,4 @@ Led ACE–CHUBB rebranding migration across 3 continents, 40+ team members, 20+ 
 
 ---
 
-*"Delivered programs. Scaled platforms. Moved the needle."*
+*"Building systems is engineering. Delivering them at scale is program leadership."*
