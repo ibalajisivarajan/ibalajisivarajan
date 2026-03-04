@@ -2,7 +2,7 @@
 
 > **Senior Technical Program Manager** | Cloud & AI/ML Transformation | SAFe Agile | Fortune 500 & Gov't
 
-I bridge the gap between **technology and business outcomes** — turning complex, cross-functional programs into measurable enterprise impact. With 10+ years leading cloud modernization, AI/ML enablement, and digital transformation across **JetBlue, CHUBB, Wisconsin DOR, and Mattel**, I specialize in delivering at scale.
+I bridge the gap between **technology and business outcomes**turning complex, cross-functional programs into measurable enterprise impact. With 10+ years leading cloud modernization, AI/ML enablement, and digital transformation across **JetBlue, CHUBB, Wisconsin DOR, and Mattel**, I specialize in delivering at scale.
 
 ---
 
