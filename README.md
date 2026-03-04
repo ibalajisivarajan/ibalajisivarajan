@@ -9,10 +9,15 @@ I lead large-scale programs that bring engineering, architecture, and business t
 ## What I Work On
 
 • Cloud platform modernization (AWS / Azure)
+
 • Distributed systems and event-driven architectures
+
 • Data and analytics platforms (Snowflake, BI, decision intelligence)
+
 • AI / ML program delivery and enterprise GenAI adoption
-• Mission-critical operational systems (aviation, fintech, ecommerce)
+
+• Mission-critical operational systems (aviation, fintech)
+
 • Engineering execution at scale (CI/CD, microservices, DevOps)
 
 ---
@@ -28,12 +33,7 @@ Previously worked on modernization programs supporting:
 • data and analytics platforms  
 • large-scale digital transformation initiatives  
 
-This GitHub documents the **technical thinking behind complex programs**, including:
-
-- system architecture breakdowns
-- distributed system patterns
-- cloud modernization frameworks
-- program execution playbooks for engineering teams
+This GitHub documents my thinking around **system design, architecture patterns, and technical program leadership**.
 
 ---
 
